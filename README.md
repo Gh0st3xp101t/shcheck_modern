@@ -19,9 +19,7 @@
 
 ---
 
-<p align="center">
-  <img src="screenshot.png" alt="shcheck-modern screenshot" width="860"/>
-</p>
+
 
 ---
 
